@@ -8,9 +8,11 @@ const Home = () => {
           <h1 className="text-s64  leading-tight tracking-wide font-bold ">
             Hey! I'm Raja Adnaan Altaf
           </h1>
-          <h1 className="text-transparent bg-clip-text bg-gradient-to-r from-[#0062ff]  to-[#61efff] text-s64 leading-tight tracking-tight font-bold">
-            Front-End Developer
-          </h1>
+          <div className="flex justify-center items-center">
+            <h1 className="text-transparent bg-clip-text bg-gradient-to-r from-[#0062ff]  to-[#61efff] text-s64 leading-tight tracking-tight font-bold">
+              Front-End Developer
+            </h1>
+          </div>
           <p className="text-s20 text-grey  mx-auto max-w-[70%] mt-6">
             Front-End Software Developer working in IT field for 1 year ,
             specialized in Web Development.

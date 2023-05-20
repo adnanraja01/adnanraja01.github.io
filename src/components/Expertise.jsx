@@ -11,7 +11,7 @@ const Data = [
   },
   {
     title: "System Design",
-    info: "Identify &amp; Analyze the high-level components that will make up the system and identify common patterns and potential issues.",
+    info: "Identify and Analyze the high-level components that will make up the system and identify common patterns and potential issues.",
     src: SystemSvg,
   },
 ];
